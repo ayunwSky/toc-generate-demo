@@ -2,17 +2,17 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [GitHub Action 为README.md 添加 toc 目录](#github-action-为readmemd-添加-toc-目录)
-  - [## 第一章](#-第一章)
-    - [第一节](#第一节)
-    - [第二节](#第二节)
-  - [## 第二章](#-第二章)
-    - [第一节](#第一节-1)
-    - [第二节](#第二节-1)
-  - [## 第三章](#-第三章)
-    - [第一节](#第一节-2)
-    - [第二节](#第二节-2)
-  - [参考](#参考)
+- [GitHub Action 为README.md 添加 toc 目录](#github-action-%E4%B8%BAreadmemd-%E6%B7%BB%E5%8A%A0-toc-%E7%9B%AE%E5%BD%95)
+  - [第一章](#%E7%AC%AC%E4%B8%80%E7%AB%A0)
+    - [第一节](#%E7%AC%AC%E4%B8%80%E8%8A%82)
+    - [第二节](#%E7%AC%AC%E4%BA%8C%E8%8A%82)
+  - [第二章](#%E7%AC%AC%E4%BA%8C%E7%AB%A0)
+    - [第一节](#%E7%AC%AC%E4%B8%80%E8%8A%82-1)
+    - [第二节](#%E7%AC%AC%E4%BA%8C%E8%8A%82-1)
+  - [第三章](#%E7%AC%AC%E4%B8%89%E7%AB%A0)
+    - [第一节](#%E7%AC%AC%E4%B8%80%E8%8A%82-2)
+    - [第二节](#%E7%AC%AC%E4%BA%8C%E8%8A%82-2)
+  - [参考](#%E5%8F%82%E8%80%83)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
